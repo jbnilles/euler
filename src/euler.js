@@ -32,6 +32,7 @@ Euler.prototype.getFibonacci = function () {
       result[i] += sum;
     }
   }
+  
   return sum;
 }
 
